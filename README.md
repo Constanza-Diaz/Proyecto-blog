@@ -15,10 +15,10 @@ La estructura y el contenido de la página web
 *   **`Blog/`**: Directorio que alberga las entradas del blog:
     *   `Blog.html`: La página principal del blog con una lista de artículos.
     *   `FirstArticle.html`, `SecondArticle.html`, `ThirdArticle.html`, `FourthArticle.html`, `FifthArticle.html`, `SixthArticle.html`: Páginas individuales para cada artículo del blog.
-    
+
 ## Características Principales
 
-*   **Navegación**: Una barra de navegación fija en la parte superior facilita el acceso a las diferentes secciones.
+*   **Navegación**: Una barra de navegación en la parte superior facilita el acceso a las diferentes secciones.
 *   **Sección de Inicio**: Presenta la tienda.
 *   **Categorías de Productos**: Muestra diferentes tipos de arreglos florales (Ramos Buchones, Ramos de una flor, Arreglos).
 *   **Productos Destacados**: Una sección en la página de inicio para resaltar los productos más populares.
@@ -26,6 +26,7 @@ La estructura y el contenido de la página web
 *   **Blog**: Artículos sobre el significado de las flores, consejos de cuidado, floristería en casa y flores nativas.
 *   **Página "Acerca de"**: Detalla la historia de la tienda.
 *   **Página de Contacto**: Proporciona información de contacto.
+
 ## Tecnologías Utilizadas
 
 *   **HTML**
