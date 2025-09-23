@@ -160,6 +160,20 @@ hr{
     transform: translateY(0);
     opacity: 1;
 }
+.sproduct input{
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+/*tienda*/
+.product img{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    object-fit: cover;
+}
 /*banner*/
 #banner{
     background-image: url("/assets/image/fondo\ 2.png");
@@ -470,4 +484,3 @@ a:hover .link-hover{
         flex: 1 1 100%;
     }
 }
-
